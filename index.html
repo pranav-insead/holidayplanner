@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holiday Planner - Dec-Jan Warm Destinations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌴 Holiday Planner</h1>
+            <p class="subtitle">Find warm destinations in India for Dec-Jan holidays</p>
+        </header>
+
+        <div class="search-section">
+            <h2>Plan Your Trip</h2>
+            <form id="searchForm">
+                <div class="form-group">
+                    <label for="departure">Departure City</label>
+                    <select id="departure" name="departure" required>
+                        <option value="">Select City</option>
+                        <option value="DEL">Delhi (DEL)</option>
+                        <option value="IXC">Chandigarh (IXC)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="dateRange">Travel Dates</label>
+                    <select id="dateRange" name="dateRange" required>
+                        <option value="">Select Date Range</option>
+                        <option value="dec20-25">Dec 20-25, 2024</option>
+                        <option value="jan02-08">Jan 02-08, 2025</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="tripDuration">Trip Duration</label>
+                    <select id="tripDuration" name="tripDuration" required>
+                        <option value="">Select Duration</option>
+                        <option value="2">2 Days</option>
+                        <option value="3">3 Days</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="search-btn">Search Packages</button>
+            </form>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Searching for the best deals...</p>
+        </div>
+
+        <div id="results" class="results-section" style="display: none;">
+            <h2>Available Packages</h2>
+            <div id="packagesList" class="packages-list"></div>
+        </div>
+
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No packages found. Please try different search criteria.</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
