@@ -14,46 +14,100 @@ TITLE_COL = 1
 
 PF_KEYWORDS = {
     "Consumables": [
-        "kawa", "coffee", "herbata", "tea", "czekolad", "cukier", "miod", "sok",
+        # food / drinks — stems cover Polish inflections (kawa→kawy, karma→karmy)
+        "kaw", "coffee", "herbat", "tea", "czekolad", "cukier", "miod", "sok",
         "oliwa", "olej", "maka", "mąka", "kasza", "ryz", "ryż", "makaron",
-        "karma", "przysmak", "pies", "psa", "kot", "kota", "zwirek", "żwirek",
+        "karm", "przysmak",
+        # pet food
+        "pies", "psa", "psi", "kot", "kota", "zwirek", "żwirek",
         "pet", "dog", "cat", "food", "grocery",
-        "kosmet", "perfum", "woda perfum", "szampon", "odzywka", "odżywka",
-        "krem", "balsam", "serum", "zel", "żel", "pasta do zebow", "pasta do zębów",
-        "szczoteczka", "irygator", "golarka", "oneblade", "depilator",
+        # beauty / personal care / pharmacy
+        "kosmet", "perfum", "woda perfum",
+        "szampon", "odzywka", "odżywka",
+        "krem", "balsam", "serum", "zel", "żel",
+        "pasta do z",       # pasta do zębów / zebow
+        "szczoteczk",       # szczoteczka, szczoteczki
+        "irygator", "golark", "oneblade", "depilator",
         "suplement", "witamin", "omega", "kolagen", "probiotyk", "kaps",
         "tabletki", "lek", "aptecz", "medycz", "dezynfek", "higien",
         "pieluch", "baby", "dzieck", "niemowl",
-        "cleaner", "detergent", "domestos", "plyn", "płyn", "adblue"
+        "cleaner", "detergent", "domestos", "plyn", "płyn", "adblue",
+        # categories missing from v1
+        "soczewk",          # soczewki (contact lenses)
+        "mleko",            # milk / infant formula
+        "glukometr",        # glucose meter (consumable strips)
+        "erytrol", "erytrytol",  # sweeteners
+        "lakier do w",      # lakier do włosów (hair lacquer)
+        "odżywk",           # odżywka (conditioner / supplement)
     ],
 
     "Softlines": [
-        "buty", "obuwie", "sneakers", "odziez", "odzież", "kurtka", "spodnie",
-        "koszulka", "bluza", "bielizna", "skarpet", "czapka", "rekawiczki",
-        "rękawiczki", "plecak", "torba", "walizka", "bagaz", "bagaż",
-        "zegarek", "watch", "jewelry", "bizuteria", "biżuteria",
+        "buty", "butów", "butach",   # shoe inflections — "but" would match butelka
+        "obuwie", "sneakers",
+        "odzie",            # odzież, odzieży, odziez
+        "kurtka", "spodnie",
+        "koszulk",          # koszulka, koszulki
+        "bluza", "bielizna", "skarpet", "czapka",
+        "rekawiczki", "rękawiczki",
+        "plecak",
+        "torb",             # torba, torby
+        "walizk",           # walizka, walizki
+        "bagaz", "bagaż",
+        "zegark",           # zegarek, zegarka
+        "watch", "jewelry", "bizuteria", "biżuteria",
         "sportowy zegarek", "g-shock",
-        "sport", "fitness", "trening", "biegan", "rower treningowy", "bieznia", "bieżnia",
-        "hantel", "ławka treningowa", "lawka treningowa", "mata do cwiczen", "mata do ćwiczeń"
+        "sport", "fitness", "trening", "biegan",
+        "rower treningowy", "bieznia", "bieżnia",
+        "hantel", "ławka treningowa", "lawka treningowa",
+        "mata do cwiczen", "mata do ćwiczeń",
+        "rakietk",          # rakietka (table tennis paddle)
+        "łyżw",             # łyżwy (ice skates)
     ],
 
     "TCEE": [
         "smartfon", "telefon", "tablet", "laptop", "komputer", "pc", "monitor",
-        "drukarka", "printer", "ssd", "dysk", "ram", "karta graficzna",
+        "drukark",          # drukarka, drukarki
+        "printer", "ssd", "dysk", "ram", "karta graficzna",
         "kamera", "camera", "projektor", "router", "wifi", "bluetooth",
-        "konsola", "playstation", "xbox", "nintendo", "gra ps5", "gra xbox",
-        "sluchawki", "słuchawki", "audio", "video", "tv", "smartwatch",
-        "pendrive", "microSD", "microsd", "usb", "gamingowy", "gaming"
+        "konsol",           # konsola, konsoli
+        "playstation", "xbox", "nintendo", "gra ps5", "gra xbox",
+        "sluchawki", "słuchawki", "audio", "video",
+        "tv", "telewizor",  # catches Blaupunkt etc.
+        "smartwatch",
+        "pendrive", "microSD", "microsd", "usb", "gamingowy", "gaming",
+        "ladowark",         # ładowarka (EV / device charger)
+        "stacja energii",   # power station
     ],
 
     "OHL": [
-        "meble", "materac", "łóżko", "lozko", "krzeslo", "krzesło", "biurko",
-        "regał", "regal", "szafka", "toaletka", "narzedz", "narzędz", "pilarka",
-        "wiertarka", "akumulator", "prostownik", "odkurzacz", "mop", "frytkownica",
-        "ekspres", "czajnik", "blender", "robot kuchenny", "kosiarka", "agregat",
-        "opona", "dywan", "lampa", "oswietlen", "oświetlen", "abażur", "abazur",
-        "zabawka", "klocki", "lego", "hot wheels", "pokemon", "pokémon",
-        "ksiazka", "książka", "wydawnictwo", "gra planszowa"
+        "mebl",             # meble, mebli, meblami
+        "materac",
+        "łóżko", "lozko", "lozk",
+        "krzeslo", "krzesło", "biurko",
+        "szaf",             # szafa, szafka, szafy (wardrobes)
+        "garderob",         # garderoba (walk-in closet)
+        "regał", "regal", "toaletka",
+        "narzedz", "narzędz",
+        "wiertar",          # wiertarka, wiertarki
+        "pilarka", "akumulator", "prostownik",
+        "odkurzacz", "mop", "frytkownica",
+        "ekspres", "czajnik", "blender", "robot kuchenny",
+        "opiekacz",         # sandwich maker / waffle iron
+        "kosiarka", "agregat",
+        "opona", "dywan", "lampa",
+        "oswietlen", "oświetlen", "abażur", "abazur",
+        "zabawk",           # zabawka, zabawki
+        "klock",            # klocki, klocków
+        "lego", "hot wheels", "pokemon", "pokémon",
+        "ksiazka", "książka", "wydawnictwo", "gra planszowa",
+        "drabin",           # drabina (ladder)
+        "kocio",            # kocioł (boiler)
+        "piec do",          # piec do pizzy (pizza oven)
+        "tarka",            # grater / cheese grater
+        "miernik",          # measuring instrument
+        "styropian",        # polystyrene insulation
+        "ta?ma", "taśma",   # tape
+        "grzejnik",         # space heater
     ],
 }
 
