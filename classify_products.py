@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("List2p1K.csv")
+df = pd.read_csv("List2p1K.csv", sep="\t")
 
 df.columns = ["Brand", "Title"]
 df["Title"] = df["Title"].str.lower().fillna("")
