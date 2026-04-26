@@ -1070,7 +1070,7 @@ Z?biec,OHL,medium,2,2,Z?biec Wenus Eco 16 kW kocio? piec uniwersalny tradycyjny 
 Zilan,OHL,low,1,1,OPIEKACZ DO ORZESZK W FORMA NIEPRZYWIERAJ?CA POW?OKA CIASTEK 24 SZT 1600W
 iLife,OHL,medium,2,1,ILIFE W90 ODKURZACZ PIONOWY MOPUJ?CY BEZPRZEWODOWY NA MOKRO SUCHO MOP 3W1
 iRobot,OHL,low,1,3,Robot sprz?taj?cy IROBOT Roomba Plus 505 Autowash Czarny | Robot sprz?taj?cy iRobot Roomba Plus 405 Combo Mopowanie Tworzenie mapy | Robot sprz?taj?cy IROBOT Roomba Plus 505 Autowash Bia?y
-? ?koholicy,Review,low,0,2,"Ko?dra obci??eniowa antystresowa 6 kg, 150 x 200 cm, szara | Ko?dra OBCI??ENIOWA Koc SENSORYCZNY dla dzieci i doros?ych 150x200 cm 7 KG"
+? ?koholicy,OHL,manual,0,2,"Ko?dra obci??eniowa antystresowa 6 kg, 150 x 200 cm, szara | Ko?dra OBCI??ENIOWA Koc SENSORYCZNY dla dzieci i doros?ych 150x200 cm 7 KG"
 ?ucznik,Softlines,claude-api,0,1,Maszyna do szycia ?ucznik Mini dla dzieci ?atwa obs?uga zestaw prezent
 AGP,OHL,claude-api,0,1,WIERTNICA AGP DM52D 1800 MIKROUDAR Przed?u?ka Wiert?o Korona 62mm
 ASG,TCEE,claude-api,0,1,"Wiatr wka Pistolet ASG CZ 75 P-07 Duty Blow-Back ZESTAW ?RUT + 10xCO2 4,5mm"
@@ -1161,7 +1161,7 @@ Bourjois,Consumables,claude-api,0,1,Bourjois Mascara Volume Glamour Pogrubiaj?cy
 Bowers & Wilkins,TCEE,claude-api,0,2,S?uchawki Bowers & Wilkins Px8 czarne ANC BT 5.2 aptX 30h | S?uchawki nauszne Bowers & Wilkins Px7 S3 (Anthracite Black)
 Bright White,Consumables,claude-api,0,1,PASKI WYBIELAJ?CE BRIGHT WHITE SUPREME 14 szt. (7 saszetek)
 Brita,OHL,claude-api,0,13,"Wk?ad filtruj?cy Brita Maxtra Pro Pure Performance 3 sztuki | Dzbanek filtruj?cy Brita Glass 2,5 l przezroczysty | Dzbanek filtruj?cy Brita Glass 2,5 l przezroczysty"
-Britax R mer,Review,low,0,2,Fotelik samochodowy Britax-Romer KidFix i-Size 15-36 kg Cosmos Black | Bezpieczny Fotelik samochodowy Britax-Romer Kidfix i-Size 15-36 kg
+Britax R mer,OHL,manual,0,2,Fotelik samochodowy Britax-Romer KidFix i-Size 15-36 kg Cosmos Black | Bezpieczny Fotelik samochodowy Britax-Romer Kidfix i-Size 15-36 kg
 Brodli,OHL,claude-api,0,1,ALKOMAT PROFESJONALNY ETUI KALIBRACJA 10 USTNIK W DOK?ADNO?? JAK POLICYJNY
 Brogaz,Consumables,claude-api,0,3,"Butla z Helem jednorazowa do 30 balon w 0,25m3 | Butla z helem Du?a na 50 balon w Urodziny HEL | Hel do balon w butla z helem Du?a na 90 balon w XXL Urodziny Komunia Hit"
 Bros,Consumables,claude-api,0,3,BROS LEP NA MYSZY SZCZURY PU?APKA LEPOWA DO PIWNICY KORYTARZ MAGAZYN 1SZT. | MICROBEC ULTRA BAKTERIE DO SZAMBA CYTRYNOWY 1kg | BROS Trutka Granulatna Myszy i Szczury 1kg
@@ -1270,7 +1270,7 @@ FLAEM,Consumables,claude-api,0,1,INHALATOR FLAEM DLA DOROS?YCH I DZIECI NEBULIZA
 FUMO,TCEE,claude-api,0,2,URZ?DZENIE ROZRUCHOWE ROZRUCH POWERBANK BOOSTER CAR JUMP STARTER 6000A LCD | URZ?DZENIE ROZRUCHOWE ROZRUCH POWERBANK BOOSTER CAR JUMP STARTER 6000A LCD
 FX Protect,Consumables,claude-api,0,1,FX Protect G-FINITY CNT GRAPHENE COATING 30ML
 Factoryherbs,Consumables,claude-api,0,1,NIE BYLE BADYLE DLA KR LIKA FACTORYHERBS 1kg zi ?
-Farma Bia?ka,Review,low,0,1,Bia?ka Jaj w P?ynie Farma Bia?ka p?ynne 6 x 1000 g
+Farma Bia?ka,OHL,manual,0,1,Bia?ka Jaj w P?ynie Farma Bia?ka p?ynne 6 x 1000 g
 Farmasi,Consumables,claude-api,0,1,FARMASI Dr. Tuna ?el masa?u b le reumatyzm wyci?g Kasztanowiec Zwyczajny
 Fellowes,OHL,claude-api,0,4,"Niszczarka biurowa papieru dokument w do biura ?cinkowa mocna Fellowes 12C | NISZCZARKA DOKUMENT W FELLOWES 99Ci, ?cinki 4x38 mm, P-4, 4691001 | NISZCZARKA DOKUMENT W FELLOWES 99Ci, ?cinki 4x38 mm, P-4, 4691001"
 Feniks,OHL,claude-api,0,1,"Feniks Ekopodpa?ka 5kg (ok. 450-500sz.) Podpa?ka, Rozpa?ka drewniana"
@@ -1407,7 +1407,7 @@ Koruma,Softlines,claude-api,0,1,PORTFEL M?ski Sk rzany OCHRONA Kart RFID BLOCK K
 Kraft,OHL,claude-api,0,1,Nawiewnik okienny monta? BEZ FREZOWANIA New Air Comfort box airbox do okna
 Kratki,OHL,claude-api,0,9,Wk?ad kominkowy WIKTOR 14 kW ?eliwny ZESTAW KOMIN fi 200 + DOLOT | WK?AD KOMINKOWY powietrzny KRATKI kominek ZUZIA ?eliwny fi 200 ekoprojekt | Wk?ad Kominkowy kominek Antek 10 CA?Y ZESTAW P?yty kratki rury dolot
 Kruzzel,OHL,claude-api,0,2,Namiot domek dla dzieci r ?owy z lampkami LED 130x100x115 cm | Kuchnia Drewniana dla Dzieci Du?a Kuchenka ?wiat?o LED + Akcesoria Garnki
-Kubu?,Review,low,0,1,Kubu? mus Zestaw mix owocowy 36sztuk
+Kubu?,Consumables,manual,0,1,Kubu? mus Zestaw mix owocowy 36sztuk
 Kuchnia Zdrowia,Consumables,claude-api,0,1,CYNAMON LASKI 500g LASKA CYNAMONU NATURALNA AROMATYCZNA
 L'Oreal,Consumables,claude-api,0,1,L'Oreal Absolut Repair Maska Regeneruj?ca wzmacniaj?ca W?osy Zniszczone 500
 LEDLUX,OHL,claude-api,0,1,?ar wka LED E27 10W =100W SMD 4000K neutralna Premium nie mruga ZESTAW
@@ -1430,7 +1430,7 @@ Lupico,OHL,claude-api,0,1,Choinka Sztuczna Na Pniu Diamentowa Montana 180cm
 Lupilu,OHL,claude-api,0,1,DREWNIANA KUCHNIA DLA DZIECI + AKCESORIA EFEKTY ?WIETLNE D?WI?KOWE PREZENT
 Lyapko,Consumables,claude-api,0,3,"WA?EK DO TWARZY LYAPKO 3,5 MINI ROLLER IG?OWY MASA?U AKUPRESURY BEZ NIKLU | LYAPKO WA?EK UNIWERSALNY 3,5 DO MASA?U LIMITOWANY | ORYGINALNY WA?EK AKUPUNKTUROWY APLIKATOR WIELOIG?OWY LYAPKO DO TWARZY 3.5"
 M-FOLIE,OHL,claude-api,0,1,FOLIA STRETCH 3KG XXL STRECZ CZARNY CZARNA ROLKA MOCNA KRYJ?CA
-M?yn Suwa?ki,Review,low,0,1,M?ka orkiszowa jasna TYP 630 5kg
+M?yn Suwa?ki,Consumables,manual,0,1,M?ka orkiszowa jasna TYP 630 5kg
 MA Professional,Consumables,claude-api,0,1,P?YN CH?ODNICZY G12 CZERWONY GOTOWY DO CH?ODNIC MOJE AUTO PRO R ?OWY 5L
 MAX,OHL,claude-api,0,2,PODNO?NIK P?YT REGIPS W GIPSOWO KARTONOWYCH 3.5m OSB GK GIPSOWYCH STOJAK | Mata masuj?ca wibracyjna do masa?u z grzaniem Mocna Masa?er na fotel
 MG Home,OHL,claude-api,0,1,KOMPLET MAGDA GESSLER SERWIS OBIADOWY PORCELANA TALERZE 18el 6 OS B SZARY
@@ -1487,7 +1487,7 @@ NARWAL,TCEE,claude-api,0,1,Robot sprz?taj?cy NARWAL Flow
 NAVITEL,TCEE,claude-api,0,2,NAVITEL DVR R600 REJESTRATOR JAZDY KAMERKA Full HD | Wideorejestrator samochodowy Navitel RS990 GPS Night Vision PRO 4K
 NIVEA,Consumables,claude-api,0,2,NIVEA MEN BLACK&WHITE Antyperspirant 72h w kulce m?ski 50ml x6 + minis | NIVEA MEN 3w1 ?el pod prysznic m?ski zestaw - P?yn do mycia 500ml x5
 Nanobauer,Consumables,claude-api,0,1,"KAMIENIO?ERCA Odkamieniacz 750ml P?yn do mycia kabin prysznicowych, WC"
-Nasza Ksi?garnia,Review,low,0,3,Lisek urwisek Nasza Ksi?garnia - gry | Sen Gra Karciana Tworzenie Sn w Krainy 8+ Nasza Ksi?garnia | Sen Gra Karciana Tworzenie Sn w Krainy 8+ Nasza Ksi?garnia
+Nasza Ksi?garnia,OHL,manual,0,3,Lisek urwisek Nasza Ksi?garnia - gry | Sen Gra Karciana Tworzenie Sn w Krainy 8+ Nasza Ksi?garnia | Sen Gra Karciana Tworzenie Sn w Krainy 8+ Nasza Ksi?garnia
 Nato Defense,OHL,claude-api,0,1,GAZ PIEPRZOWY OBRONNY NATO 2 SZTUKI ?EL 50ml
 Naughty Dog,TCEE,claude-api,0,2,THE LAST OF US PART I / PL / NOWA / PS5 | THE LAST OF US PART I / PL / NOWA / PS5
 Navitel,TCEE,claude-api,0,1,Wideorejestrator NAVITEL RS985 Duo prz d ty? 4K HDR GPS Wi-fi SONY + 64GB
@@ -1496,7 +1496,7 @@ Netflix,TCEE,claude-api,0,1,Karta podarunkowa Netflix 80 z?
 New Home,OHL,claude-api,0,1,4 KRZES?A TAPICEROWANE FADO EKOSK RA EKSKLUZYWNE KRZES?O FADO TAPICEROWANE
 Nice,OHL,claude-api,0,3,Zbiornik bojler podgrzewacz pompa ciep?a CUBION 300L 2 w??ownice HPH | ZESTAW DO WIERCENIA P?YTEK OTWORNICE FREZ 20-68mm M14 SENDI 01961204611 | ORYGINALNY ZESTAW NICE WINGO 2024 KOMPLET 2 PILOTY
 Nicekids,Softlines,claude-api,0,1,PODUSZKA DLA KOBIET W CI??Y CI??OWA DO SPANIA TYPU C NICEKIDS
-Niepo?omicki Bartnik,Review,low,0,1,"MI D SPADZIOWY ?WIE?Y SPAD? IGLASTA Z PASIEKI ZE SPADZI IGLASTEJ 1,2kg 2025"
+Niepo?omicki Bartnik,Consumables,manual,0,1,"MI D SPADZIOWY ?WIE?Y SPAD? IGLASTA Z PASIEKI ZE SPADZI IGLASTEJ 1,2kg 2025"
 Nikon,TCEE,claude-api,0,7,Nikon D850 body | Aparat fotograficzny Nikon Z6 II body | NIKON D7500 + NIKON NIKKOR 18-140MM VR + GRATISY
 Nilfisk,OHL,claude-api,0,1,MYJKA CI?NIENIOWA NILFISK PREMIUM POWER 190 INDUKCYJNY 190-12
 Nivel System,OHL,claude-api,0,2,NIWELATOR LASEROWY CZERWONA WI?ZKA NL320R DIGITAL NIVEL SYSTEM ZESTAW | Laser krzy?owy niebieski cl4b laser 360 NIVEL poziomica laserowa zestaw
@@ -1555,7 +1555,7 @@ Planika,OHL,claude-api,0,4,Parasol grzewczy Ogrzewacz ogrodowy Planika Faro 8kW 
 Plantur,Consumables,claude-api,0,1,Plantur39 Phyto-Caffeine Tonic 200 ml
 Playio,OHL,claude-api,0,1,Samoch d zdalnie sterowany auto RC terenowe sterowane z efektem mg?y PLAYIO
 Playmobil,OHL,claude-api,0,1,PLAYMOBIL Posterunek policji Komisariat z autem 71602 + Katalog 2026
-Pok mon,Review,low,0,3,POK MON TCG: MEGA CHARIZARD X EX - ULTRA-PREMIUM COLLECTION | Pok mon TCG: Mega Evolution - Phantasmal Flames - Booster Box | Pok mon TCG: Phantasmal Flames - Elite Trainer Box
+Pok mon,OHL,manual,0,3,POK MON TCG: MEGA CHARIZARD X EX - ULTRA-PREMIUM COLLECTION | Pok mon TCG: Mega Evolution - Phantasmal Flames - Booster Box | Pok mon TCG: Phantasmal Flames - Elite Trainer Box
 Polion,TCEE,claude-api,0,1,Przetwornica samochodowa 12V/230V Polion 1200W czysty sinus
 Poljet,OHL,claude-api,0,1,Papier ksero A4 Poljet 90g CIE 166 - 250 arkuszy
 Polynor,OHL,claude-api,0,3,POLYNOR PRO izolacje piana natryskowa pur pianka pur OCIEPLENIE GARAZU 24el | POLYNOR PRO izolacje piana natryskowa pianka pur OCIEPLENIE GARA?U + GRATIS | POLYNOR izolacje piana natryskowa pur pianka pur OCIEPLENIE PODDASZA GARAZU
@@ -1715,7 +1715,7 @@ Tracmax,OHL,claude-api,0,4,"1x 205/55R16 TRACMAX X-PRIVILO S130 91 V przyczepno?
 Tsunami,Softlines,claude-api,0,2,DESKA SUP TSUNAMI DO P?YWANIA POMPOWANA | DESKA SUP
 Tuluszka,OHL,claude-api,0,1,Hu?tawka kube?kowa WYGODNA DLA DZIECI 31 x 140 x 33 cm SIEDZISKO WISZ?CE
 Tunap,Consumables,claude-api,0,1,TUNAP 987 aktywny dodatek SCR 250 ml
-Twoja Pszcz ?ka,Review,low,0,1,Roleta Dzie? Noc w ALUMINIOWEJ kasecie na wymiar + obci??nik (36 kolor w)
+Twoja Pszcz ?ka,OHL,manual,0,1,Roleta Dzie? Noc w ALUMINIOWEJ kasecie na wymiar + obci??nik (36 kolor w)
 Tymbark,Consumables,claude-api,0,2,Tymbark Just Plants Nap j Ro?linny Owsiany Klasyczny 6x1L | Tymbark Just Plants Nap j Ro?linny Owsiany Klasyczny 6x1L
 UVS Games,OHL,claude-api,0,1,Riftbound: League of Legends TCG - Origins 1 Booster
 Ubieramy-meble,OHL,claude-api,0,2,6 SZT POKROWCE POKROWIEC NA KRZES?O CZARNY ELASTYCZNY UNIWERSALNY | 6 SZT POKROWCE POKROWIEC NA KRZES?O CH?ODNY SZARY WELUR ELASTYCZNY UNIWERSA
@@ -1788,7 +1788,7 @@ Zehnder,OHL,claude-api,0,1,CZUJNIK CZADU DETEKTOR TLENKU W?GLA WYKRYWACZ 3 LATA 
 Zencar,OHL,claude-api,0,1,"?adowarka Wallbox ZENCAR 11kW, model premium, d?. 650cm, 6-16A, RCD B"
 Zilner,OHL,claude-api,0,2,ZESTAW GARNK W INDUKCJA / GAZ GARNKI MARMUROWE KOMPLET GARNK W MARMURKOWYCH | KOMPLET GARNK W MARMUROWYCH GARNKI MARMURKOWE ZESTAW INDUKCJA/GAZ
 Zwieger,OHL,claude-api,0,3,ZWIEGER OBSIDIAN PATELNIA KUCHENNA TRADYCYJNA 28CM NIEPRZYWIERAJ?CA PREMIUM | Zestaw garnk w Zwieger Kompact 6 element w | ZWIEGER KLASSIKER Szybkowar 7.0 L
-[RENA.PL](http://RENA.PL),Review,low,0,1,Rolety Thermo w kasecie Termo Zaciemniaj?ce 100%
+[RENA.PL](http://RENA.PL),OHL,manual,0,1,Rolety Thermo w kasecie Termo Zaciemniaj?ce 100%
 doppelherz,Consumables,claude-api,0,1,Minoxidil Doppelherz Dla M??czyzn na odrost w?os w hamuje ich wypadanie 60g
 memogames,OHL,claude-api,0,1,Memo Games - Gra karciana Mi?dzy nami: Kids
 porcello,OHL,claude-api,0,1,Serwis obiadowy nowoczesny na 6 os szary nakrapiany do zmywarki mikrofali
